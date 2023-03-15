@@ -20,6 +20,12 @@
 
     <dependencies>
         <dependency>
+            <groupId>net.java.dev.jna</groupId>
+            <artifactId>jna</artifactId>
+            <version>5.13.0</version>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
             <groupId>com.github.Vatuu</groupId>
             <artifactId>discord-rpc-binaries</artifactId>
             <version>3.4.0</version>
